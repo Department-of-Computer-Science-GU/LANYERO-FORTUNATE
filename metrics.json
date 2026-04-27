@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.9355695782132182,
+  "url_column": "URL",
+  "label_column": "Label",
+  "train_size": 48176,
+  "test_size": 12044,
+  "n_features": 20
+}
