@@ -1,6 +1,6 @@
 
 # LANYERO-FORTUNATE 23/U/3718/GCS/PS
-# This is the first asignment
+# This is the first asignment and the second asignment
 # 🔐 Phishing URL Detection System
 
 A machine learning-based web application that detects whether a URL is **phishing (malicious)** or **legitimate (safe)** using advanced feature extraction and classification techniques.
